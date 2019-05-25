@@ -1,0 +1,42 @@
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\bin\Debug\ElectroTS.exe.config
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\bin\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\bin\Debug\ElectroTS.pdb
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\obj\Debug\ElectroTS.ElectroTransport.resources
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\obj\Debug\ElectroTS.Properties.Resources.resources
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\obj\Debug\ElectroTransport.csproj.GenerateResource.cache
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\obj\Debug\ElectroTransport.csproj.CoreCompileInputs.cache
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\obj\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\obj\Debug\ElectroTS.pdb
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову\ElectroTS\obj\Debug\ElectroTransport.csprojAssemblyReference.cache
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\bin\Debug\ElectroTS.exe.config
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\bin\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\bin\Debug\ElectroTS.pdb
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTransport.csprojAssemblyReference.cache
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.ElectroTransport.resources
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.Properties.Resources.resources
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTransport.csproj.GenerateResource.cache
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTransport.csproj.CoreCompileInputs.cache
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\ІППТ\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.pdb
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\bin\Debug\ElectroTS.exe.config
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\bin\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\bin\Debug\ElectroTS.pdb
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTransport.csprojAssemblyReference.cache
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.ElectroTransport.resources
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.Properties.Resources.resources
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTransport.csproj.GenerateResource.cache
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTransport.csproj.CoreCompileInputs.cache
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)\ElectroTS\obj\Debug\ElectroTS.pdb
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\bin\Debug\Database1.mdf
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\bin\Debug\Database1_log.ldf
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\bin\Debug\ElectroTS.exe.config
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\bin\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\bin\Debug\ElectroTS.pdb
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\obj\Debug\ElectroTransport.csprojAssemblyReference.cache
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\obj\Debug\ElectroTS.ElectroTransport.resources
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\obj\Debug\ElectroTS.Properties.Resources.resources
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\obj\Debug\ElectroTransport.csproj.GenerateResource.cache
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\obj\Debug\ElectroTransport.csproj.CoreCompileInputs.cache
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\obj\Debug\ElectroTS.exe
+C:\Users\tjnaz\Desktop\Прога на курсову (0.06)(local)\ElectroTS\obj\Debug\ElectroTS.pdb
